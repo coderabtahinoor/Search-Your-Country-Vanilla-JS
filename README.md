@@ -1,2 +1,2 @@
-# Search-Your-Countries-Vanilla-JS
+# Search-Your-Country-Vanilla-JS
 A simple coutry search application with Vanilla JS
